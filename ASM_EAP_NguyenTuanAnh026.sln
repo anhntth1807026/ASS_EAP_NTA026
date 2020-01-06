@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASM_EAP_NguyenTuanAnh026", "ASM_EAP_NguyenTuanAnh026\ASM_EAP_NguyenTuanAnh026.csproj", "{EC7541DE-66E8-4A6A-BD0E-B3EA5E553C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7541DE-66E8-4A6A-BD0E-B3EA5E553C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7541DE-66E8-4A6A-BD0E-B3EA5E553C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7541DE-66E8-4A6A-BD0E-B3EA5E553C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7541DE-66E8-4A6A-BD0E-B3EA5E553C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF805522-E016-4602-942E-EC611F9A745B}
+	EndGlobalSection
+EndGlobal
